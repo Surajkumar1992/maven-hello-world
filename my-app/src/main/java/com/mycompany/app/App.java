@@ -16,7 +16,6 @@ public class App
          * Checker prevents this from compiling...
          */
 //        System.out.println("myObject: " + myObject.toString());
-//        System.out.println("This is my test project");
         /**
          * ... which is simply fantastic. It shows:
          *
